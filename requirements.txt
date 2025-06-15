@@ -41,7 +41,7 @@ gotrue==2.11.1
 greenlet==3.1.1
 griffe==1.5.4
 groq==0.15.0
-h11==0.14.0
+h11==0.16.0
 h2==4.1.0
 hpack==4.0.0
 html2text==2024.2.26
@@ -131,7 +131,7 @@ rank-bm25==0.2.2
 realtime==2.1.0
 referencing==0.35.1
 regex==2024.11.6
-requests==2.32.3
+requests==2.32.4
 requests-toolbelt==1.0.0
 rich==13.9.4
 rich-toolkit==0.13.2
